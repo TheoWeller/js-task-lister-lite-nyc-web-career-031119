@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
   //Create options
   const option1 = document.createElement('option')
   option1.innerText = "red"
-  option2.innerText = "yellow"
+  option2.innerText = "blue"
   // option3.innerText = "green"
   const option2 = document.createElement("option")
   const option3 = document.createElement("option")
