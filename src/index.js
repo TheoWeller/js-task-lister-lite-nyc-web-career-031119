@@ -14,9 +14,10 @@ document.addEventListener("DOMContentLoaded", () => {
   // option3.innerText = "green"
   const option2 = document.createElement("option")
   option2.innerText = "yellow"
+
   const option3 = document.createElement("option")
-  option3 = "green"
-  
+  option3.innerText = "green"
+
   dropdown.appendChild(option1)
   dropdown.appendChild(option2)
   dropdown.appendChild(option3)
